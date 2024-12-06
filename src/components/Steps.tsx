@@ -12,7 +12,7 @@ export function Steps() {
     {
       icon: <FileText className="w-8 h-8" />,
       title: "Inscription",
-      description: "Inscrivez-vous sur https://forms.gle/E8HnR52cVXPxmAye6"
+      description: 'Inscrivez-vous sur https://forms.gle/E8HnR52cVXPxmAye6'
     },
     {
       icon: <Music className="w-8 h-8" />,
