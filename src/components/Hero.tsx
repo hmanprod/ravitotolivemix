@@ -27,11 +27,11 @@ export function Hero() {
               <span>+155 000 morceaux</span>
             </div>
             <div className="flex items-center gap-2">
-              <Trophy style={{ color: theme.colors.primary }} />
+              <Users style={{ color: theme.colors.primary }} />
               <span>+ 2 000 stems </span>
             </div>
             <div className="flex items-center gap-2">
-              <Users style={{ color: theme.colors.primary }} />
+              <Trophy style={{ color: theme.colors.primary }} />
               <span>4 mois d'accès</span>
             </div>
           </div>
