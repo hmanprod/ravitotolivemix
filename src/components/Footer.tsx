@@ -9,7 +9,7 @@ export function Footer() {
           <img src="https://mibuzz.mg/img/logo-bicolor.png" alt="MiBuzz" className="h-6" />
         </div>
         <p className="text-gray-400 mb-4">
-          Deadline : 11 décembre 2024
+          Deadline : 13 décembre 2024
         </p>
         <p className="text-2xl font-bold" style={{ color: theme.colors.primary }}>
           Soyez ouf. Soyez original. Soyez le meilleur. 🎧
