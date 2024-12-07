@@ -2,7 +2,7 @@ import { Track } from '../types/Track';
 
 export const tracks: Track[] = [
   {
-    title: "BOLO - RAVITOTO ( VCDRK RMX mibuzz.mg )",
+    title: "BOLO - RAVITOTO ( VCDRK EXTENDED RMX mibuzz.mg )",
     artist: "VCDRK",
     downloadUrl: "https://drive.google.com/file/d/11uApyeQswQXQFsIwugGdYwKJ9WX0GBtz/view?usp=drive_link",
     style: "DUBSTEP"
