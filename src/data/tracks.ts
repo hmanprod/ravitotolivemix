@@ -4,7 +4,7 @@ export const tracks: Track[] = [
   {
     title: "BOLO - RAVITOTO ( VCDRK RMX mibuzz.mg )",
     artist: "VCDRK",
-    downloadUrl: "https://drive.google.com/file/d/1QmcHktHcrIshyg7YXiYc_1lGA0uv-4rF/view?usp=drive_link",
+    downloadUrl: "https://drive.google.com/file/d/11uApyeQswQXQFsIwugGdYwKJ9WX0GBtz/view?usp=drive_link",
     style: "DUBSTEP"
   },
   {
